@@ -653,7 +653,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   jumpForce: 10
-  gravityModifier: 1
+  gravityModifier: 1.5
   isOnGround: 1
   gameOver: 0
 --- !u!1 &2014335011
